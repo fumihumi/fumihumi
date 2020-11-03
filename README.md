@@ -13,4 +13,6 @@ I'm a Developer.
 
 - Twitter: https://twitter.com/_fumihumi
 - Facebook: https://www.facebook.com/fumihumi
+
 - blog: https://fumihumi.hatenablog.com/
+- scrapbox: https://scrapbox.io/fumihumi/
